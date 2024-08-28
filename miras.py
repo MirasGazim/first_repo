@@ -11,3 +11,7 @@ print('hello world!')
 print("hello world!")
 print("hello world!")
 print("miras gazimov")
+<<<<<<< HEAD
+=======
+print('fgeeeeee')
+>>>>>>> feature
