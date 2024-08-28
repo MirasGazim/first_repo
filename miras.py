@@ -7,3 +7,5 @@ a1 = Car()
 a2 = Car()
 
 print(Car.__dict__)
+print('hello world!')
+print("hello world!")
