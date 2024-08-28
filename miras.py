@@ -9,4 +9,9 @@ a2 = Car()
 print(Car.__dict__)
 print('hello world!')
 print("hello world!")
+<<<<<<< HEAD
 c
+=======
+print("hello world!")
+print("miras gazimov")
+>>>>>>> feature
